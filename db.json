@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Fresh Apples",
+      "price": 2.99,
+      "quantity": 150,
+      "category": "Fruits",
+      "imageUrl": "https://i.pinimg.com/736x/2d/44/fe/2d44fe06f77df4f8b8b4ec080e519dc5.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Whole Milk",
+      "price": 3.5,
+      "quantity": 80,
+      "category": "Dairy",
+      "imageUrl": "https://i.pinimg.com/736x/da/57/9a/da579ab2cf81f5cd7d57f27e6089fc05.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Organic Bread",
+      "price": 4.5,
+      "quantity": 45,
+      "category": "Bakery",
+      "imageUrl": "https://i.pinimg.com/736x/cb/d5/31/cbd531610ab7769a6540d5c0970dd042.jpg"
+    },
+    {
+      "name": "eggs",
+      "price": 10,
+      "quantity": 20,
+      "category": "Meat",
+      "imageUrl": "https://i.pinimg.com/736x/d1/21/a4/d121a464bb7479db33399c35b91b0d25.jpg",
+      "id": "b9ee"
+    }
+  ]
+}
